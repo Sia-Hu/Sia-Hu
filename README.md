@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Zebrafish Segmentation Model**
 
-- 🌱 I’m currently learning **Data Structure and AI/ML**
+- 🌱 I’m currently learning **Applied Machine Learning, Software Testing and Analysis**
 
 - 😄 Pronouns: **She/her**
 
