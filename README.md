@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sia</h1>
 <h3 align="center">Applied Math & CS @Colgate</h3>
 
-- 🔭 I’m currently working on **Zebrafish Segmentation Model**
+- 🔭 I’m currently working on **First-order Method for Linear Programming**
 
-- 🌱 I’m currently learning **Applied Machine Learning, Software Testing and Analysis**
+- 🌱 I’m currently learning **NLP**
 
 - 😄 Pronouns: **She/her**
 
